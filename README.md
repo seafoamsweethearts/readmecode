@@ -1,1 +1,71 @@
-# readmecode
+### Github keeps trying to format it when i dont want it to be formatted on here so I'll use this as a preview. Keep in mind i have nooo clue how to properly code- im learning as i do this HAJHS-
+### The code is included as a file so you can download it easily. This is so messy i apologize (｡ﾉω＼｡)
+<br>
+> Align: left, right, center<br>
+> Width: Resize as you see fit<br>
+> Colored text: Replace hex code (#ff7bc2) with whatever color you want<br>
+> Graphics(dividers, pngs, etc): Replace with the graphics you want <br>
+
+# Current README code below
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7552690e-1d7d-4631-b431-2b11d96460c2" width="1000" height="1000%""/>
+</p>
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e0d99913-bd7e-4e37-8fc7-d0acc27ae2cb" width="800" height="800%""/>
+</p>
+
+<img src="https://github.com/user-attachments/assets/35f310a0-dba6-43c2-b6af-9ccc5ff52f55" align="left" width="30%"> <p align="center"> ${\textsf{\color{#ff7bc2}lyric or quote here}}$ <br> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/>
+<p align="center"> <details align="center">
+<summary> ⎯⎯ㅤ ${\textsf{\color{#ff7bc2}Insert title here}}$ ⊹ ࣪ ˖ </summary> Type text here<br> </details> <details align="center">
+<summary> ⎯⎯ㅤ ${\textsf{\color{#ff7bc2}Insert title here}}$ㅤ⊹ ࣪ ˖ </summary> Type text here<br> </details> <p align="center"> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/> <p align="center"> ${\textsf{\color{#ff7bc2}Lyric or quote here}}$
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c95fe79e-1dca-43a4-a60d-bf5671c6b305" width="800" height="800%""/>
+</p>
+
+<br>
+<img src="https://github.com/user-attachments/assets/1a98afeb-b503-4aee-9fa5-c6abd84dfd8e" align="right" width="30%"> <p align="center"> ${\textsf{\color{#ff7bc2}Lyric or quote here}}$ <br> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/>
+<p align="center"> <details align="center">
+<summary> ⎯⎯ㅤ ${\textsf{\color{#ff7bc2}Insert title here}}$ ⊹ ࣪ ˖ </summary> Type info here<br> </details> <details align="center">
+<summary> ⎯⎯ㅤ ${\textsf{\color{#ff7bc2}Insert title here}}$ㅤ⊹ ࣪ ˖ </summary> Type text here <br> </details> <p align="center"> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/> <p align="center"> ${\textsf{\color{#ff7bc2}Lyric or quote here}}$
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c0adf168-6e4b-4c0b-8b2b-49d1512ef646" width="800" height="800%""/>
+</p>
+
+<img src="https://github.com/user-attachments/assets/048ef54b-509e-4fb9-be49-a9dbce48a6a1" align="left" width="30%"> <p align="center"> ${\textsf{\color{#ff7bc2}Lyric or quote here}}$ <br> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/>
+<p align="center"> <details align="center">
+<summary> ⎯⎯ㅤ ${\textsf{\color{#ff7bc2}Insert title here}}$ ⊹ ࣪ ˖ </summary> Tpe text here <br> </details> <details align="center">
+<summary> ⎯⎯ㅤ ${\textsf{\color{#ff7bc2}Insert title here}}$ㅤ⊹ ࣪ ˖ </summary> Type text here<br> </details> <p align="center"> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/> <p align="center"> ${\textsf{\color{#ff7bc2}lyric or quote here}}$
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c95fe79e-1dca-43a4-a60d-bf5671c6b305" width="800" height="800%""/>
+</p>
+
+<br>
+<img src="https://github.com/user-attachments/assets/5162fb6e-4527-475b-95de-6fad2df09df1" align="right" width="40%"> <p align="center"> ${\textsf{\color{#ff7bc2}Lyric or quote here}}$ <br> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/>
+<p align="center"> <details align="center">
+<summary> ⎯⎯ㅤ ${\textsf{\color{#ff7bc2}Insert title here}}$ㅤ⊹ ࣪ ˖ </summary> Type text here <br> </details> <p align="center"> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/>
+<br> ${\textsf{\color{#ff7bc2}Lyric or quote here}}$
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c0adf168-6e4b-4c0b-8b2b-49d1512ef646" width="800" height="800%""/>
+</p>
+
+<br>
+<img src="https://github.com/user-attachments/assets/1250705a-9c93-4d31-a6e7-3ef3e688ae4c" align="right" width="20%"> <img src="https://github.com/user-attachments/assets/1250705a-9c93-4d31-a6e7-3ef3e688ae4c" align="left" width="20%"> <p align="center"> ${\textsf{\color{#ff7bc2}Lyric or quote here}}$ <br> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/>
+<p align="center"> <details align="center">
+<summary> ⎯⎯ㅤ ${\textsf{\color{#ff7bc2}Insert title here}}$ ⊹ ࣪ ˖ </summary> Type text here </details> <p align="center"> <img src="https://github.com/user-attachments/assets/6a9d751b-0337-4743-ba95-a0182ea3fbaa" height="40" width="240"/>
+<br> ${\textsf{\color{#ff7bc2}Lyric or quote here}}$
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e0d99913-bd7e-4e37-8fc7-d0acc27ae2cb" width="800" height="800%""/>
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5f57f25a-a4b1-4ed1-9675-b8b585eebcc2" width="1000" height="1000%""/>
+</p>
